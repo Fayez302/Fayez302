@@ -25,5 +25,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/md-fayez-ahmed-bappy-2007bb270)
+- [LinkedIn](https://www.linkedin.com/in/md-fayez-ahmed-bappy-2007bb270)
+
 - [portfolio Website](https://sites.google.com/view/mdfayezahmedbappy)
