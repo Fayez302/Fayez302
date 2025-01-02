@@ -19,11 +19,11 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=<Fayez302>&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<Fayez302>&layout=compact)
 
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/fayez-2007bb270)
+- [LinkedIn](www.linkedin.com/in/md-fayez-ahmed-bappy-2007bb270)
 - [portfolio Website](https://sites.google.com/view/mdfayezahmedbappy)
