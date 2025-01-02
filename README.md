@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 - 🌱 I’m learning **[Big Data Analysis and Business Modelling]**
-- 👯 I’m looking to collaborate on **[Health, Business Modelling & Big Data Analysis Projects]**
+- 👯 I’m looking to collaborate on **[ Business Modelling & Big Data Analysis Projects]**
 - 💬 Ask me about **[Statistics]**
 - 📫 How to reach me: **[bappy7310@gmail.com]**
 - ⚡ Fun fact: **[When a subject captures my attention, it latches onto me with the intensity of super glue, making it nearly impossible to detach from the fascination it sparks.]**
