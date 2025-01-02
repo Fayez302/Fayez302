@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ### 🛠️ Technologies & Tools
 ![Languages](https://img.shields.io/badge/Languages-Python%20|%20SQL-blue)
-![Tools](https://img.shields.io/badge/Tools-Tableau%20|%20Excel%20|%20VS%20Code%20|%20Jupyter%20Notebook-purple)
+![Tools](https://img.shields.io/badge/Tools-Tableau%20|%20Excel%20|%20Jupyter%20Notebook-purple)
 ![Database](https://img.shields.io/badge/Database-MySQL-orange)
 
 
