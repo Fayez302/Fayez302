@@ -19,8 +19,9 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=<Fayez302>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<Fayez302>&layout=compact)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Fayez302&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez302&layout=compact)
+
 
 ---
 
